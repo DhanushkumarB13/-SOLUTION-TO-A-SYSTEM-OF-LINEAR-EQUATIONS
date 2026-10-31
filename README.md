@@ -14,8 +14,14 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
+x = 3.0
+y = 1.0
+
+print("[%.0f. %.0f.]" % (x, y))
 
 ## Output:
+<img width="1388" height="1091" alt="image" src="https://github.com/user-attachments/assets/0c7693eb-c26a-45ae-861c-2163ac2a3d11" />
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
